@@ -15,7 +15,7 @@ Google Forms	Front-end data collection
 Google Apps Script	Automation, everytime there is a new submission it gets appended to the spreadsheet
 Google Sheets	Storage and data cleaning using formula logic like arrayformula to clean data as soon as it gets appended into the sheet from the form. 
 Looker Studio	Near real-time dashboards and analytics
-Google Sites	Centralized hub to share dashboards
+Google Sites UI.
 
 ## Different use cases
 Business surveys & feedback forms
